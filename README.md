@@ -1,5 +1,4 @@
 
-
 ---
 
 # Food site  
@@ -31,8 +30,7 @@ For support or feedback, please reach out via [GitHub](https://github.com/melisa
 
 ### License  
 MIT License  
-Copyright (c) 2025 **[Your Name]**
+Copyright (c) 2025 **[Melisa Mary]**
 
 ---
 
-Let me know if you need any tweaks!
