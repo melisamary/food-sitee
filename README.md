@@ -1,10 +1,10 @@
-Perfect! Here’s your README with all the details filled in:
+
 
 ---
 
 # Food site  
 #### A site where one can view the delicious foods offered at our restaurant and decide to visit. (April 11, 2025)  
-#### By **[Your Name]**
+#### By **[Melisa Mary]**
 
 ## Description  
 The Food Site is a simple and visually appealing web application that showcases the delicious meals available at our restaurant. It includes a detailed **menu section**, where users can browse a variety of dishes categorized by type (such as starters, main courses, and desserts), along with descriptions and prices.  
@@ -27,7 +27,7 @@ There are no known bugs at the moment.
 - CSS
 
 ## Support and contact details  
-For support or feedback, please reach out via [GitHub](https://github.com/yourusername).
+For support or feedback, please reach out via [GitHub](https://github.com/melisamary).
 
 ### License  
 MIT License  
